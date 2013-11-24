@@ -8,6 +8,6 @@
         "host": "authenticator.identityonly.com",
         "port": 80,
         "method": "POST",
-        "path": "/authenticator"
+        "path": "/authenticator/ssh"
     }
 }
