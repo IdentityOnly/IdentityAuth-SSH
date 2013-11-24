@@ -1,0 +1,14 @@
+{
+  "name": "IdentityAuth-SSH",
+  "version": "0.0.0",
+  "description": "SSH agent authentication for IdentityOnly",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IdentityOnly/IdentityAuth-SSH.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/IdentityOnly/IdentityAuth-SSH/issues"
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "server": {
+        "hostRsaKeyFile": "./keys/host_rsa",
+        "hostDsaKeyFile": "./keys/host_dsa"
+    },
+    "port": 22,
+    "authenticator": {
+        "host": "authenticator.identityonly.com",
+        "port": 80,
+        "method": "POST",
+        "path": "/authenticator"
+    }
+}
